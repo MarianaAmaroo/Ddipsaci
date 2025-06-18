@@ -1,2 +1,2 @@
-# Ddipsaci
-Bitácora del proyecto D dipsaci
+# Ditylenchus dipsaci
+Bitácora del proyecto Ditylenchus dipsaci, nemátodo de cultivos de ajo
